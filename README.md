@@ -1,5 +1,8 @@
-###Segunda aula
-é a segunda aula
+## Segunda aula
+é a segunda aula de git.
 
-###hahaha
-muito bom
+## Minha opiniao
+essa aula foi foda.
+
+##BRANCH
+aprendendo sobre branch
